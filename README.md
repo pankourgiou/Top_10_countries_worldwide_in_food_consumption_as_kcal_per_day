@@ -1,0 +1,3 @@
+# Top_10_countries_worldwide_in_food_consumption_as_kcal_per_day
+![Top_10_countries_worldwide_in_kcal_per_day](https://github.com/user-attachments/assets/44fc4d45-c7b5-47b7-8d4e-74820dbe8500)
+If we count though the kcal/day France is in #9 and voila Greece is in #10...
